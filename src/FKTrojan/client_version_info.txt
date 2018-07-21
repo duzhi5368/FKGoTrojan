@@ -1,0 +1,27 @@
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "Media Center Extensibility Host"
+		VALUE "FileVersion", "6.1.7601.17514 (win7sp1_rtm.101119-1850)"
+		VALUE "InternalName", "ehHost.exe"
+		VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "ehHost.exe"
+		VALUE "ProductName", "Microsoft® Windows® Operating System"
+		VALUE "ProductVersion", "6.1.7601.17514"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0  
+}
+}

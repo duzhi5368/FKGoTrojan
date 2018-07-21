@@ -1,0 +1,6 @@
+.idea
+.idea/*
+bin/*.exe
+pkg
+src/FKTrojan/client_tools/user_interface/TrojanCommandSender/obj/
+src/FKTrojan/client_tools/user_interface/TrojanCommandSender/.vs/

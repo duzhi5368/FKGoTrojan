@@ -1,0 +1,10 @@
+{
+   "mysql_user": "root",
+   "mysql_pass": "qazwsx",
+   "mysql_host": "tcp(127.0.0.1:3306)",
+   "mysql_name": "panel",
+   "base_data_dir":"d:/bin/data",
+   "enable_compress_transfer": false,
+   "cmd_port":7778,
+   "trans_port":7779
+ }
