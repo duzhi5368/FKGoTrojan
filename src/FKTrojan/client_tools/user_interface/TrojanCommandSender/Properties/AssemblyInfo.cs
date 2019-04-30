@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("TrojanCommandSender")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IVI")]
+[assembly: AssemblyCompany("FreeKnight personal")]
 [assembly: AssemblyProduct("木马命令控制器")]
 [assembly: AssemblyCopyright("Copyright © Frankie.W 2018")]
 [assembly: AssemblyTrademark("")]
