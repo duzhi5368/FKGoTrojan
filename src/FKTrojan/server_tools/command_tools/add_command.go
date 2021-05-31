@@ -123,5 +123,5 @@ func main() {
 		log.Fatal("json.mashal error %v", err)
 	}
 	idFile := "./insert_id.txt"
-	ioutil.WriteFile(idFile, js, 644)
+	ioutil.WriteFile(idFile, js, 0644)
 }
