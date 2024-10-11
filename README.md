@@ -360,3 +360,7 @@ D:\server>
 ## 常见问题
 
 * 待续
+
+## StarHistory
+
+[![Star History Chart](https://api.star-history.com/svg?repos=duzhi5368/FKGoTrojan&type=Date)](https://star-history.com/#duzhi5368/FKGoTrojan&Date)
